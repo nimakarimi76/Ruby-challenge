@@ -1,0 +1,1458 @@
+[
+  {
+    "date": "2017-01-01",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-01-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-06",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-01-07",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-08",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-14",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-15",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-21",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-22",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-28",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-29",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-01-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-01-31",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-04",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-05",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-11",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-12",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-18",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-19",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-25",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-26",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-02-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-02-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-04",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-05",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-11",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-12",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-18",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-19",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-25",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-26",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-03-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-03-31",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-01",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-07",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-08",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-14",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-15",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-16",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-04-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-21",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-22",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-24",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-04-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-04-28",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-29",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-04-30",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-05-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-05",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-06",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-12",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-13",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-19",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-20",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-26",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-27",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-05-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-05-31",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-01",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-06-02",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-03",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-09",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-10",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-16",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-17",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-23",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-24",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-06-25",
+    "status": "Santo Patrono di Padova"
+  },
+  {
+    "date": "2017-06-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-06-30",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-01",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-07",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-08",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-14",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-15",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-21",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-22",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-28",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-29",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-07-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-07-31",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-04",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-05",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-11",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-12",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-14",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-08-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-18",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-19",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-25",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-26",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-08-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-08-31",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-01",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-02",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-08",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-09",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-15",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-16",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-22",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-23",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-09-29",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-09-30",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-06",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-07",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-13",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-14",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-20",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-21",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-25",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-26",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-27",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-28",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-10-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-10-31",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-01",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-11-02",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-03",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-04",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-05",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-08",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-09",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-10",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-11",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-12",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-16",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-17",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-18",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-19",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-23",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-24",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-25",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-26",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-11-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-11-30",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-01",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-02",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-03",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-04",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-05",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-06",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-07",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-08",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-12-09",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-10",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-11",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-12",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-13",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-14",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-15",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-16",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-17",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-18",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-19",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-20",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-21",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-22",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-23",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-24",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-25",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-12-26",
+    "status": "holiday"
+  },
+  {
+    "date": "2017-12-27",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-28",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-29",
+    "status": "workday"
+  },
+  {
+    "date": "2017-12-30",
+    "status": "weekend"
+  },
+  {
+    "date": "2017-12-31",
+    "status": "weekend"
+  }
+]

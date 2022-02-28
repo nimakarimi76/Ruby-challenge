@@ -1,0 +1,26 @@
+{
+  "holidays": [
+    { "name": "New Year’s Day", "date": "01-01" },
+    { "name": "Epiphany", "date": "01-06" },
+    { "name": "Easter Monday (Pasquetta)", "date": "04-17" },
+    {
+      "name": "Liberation Day (Festa della Liberazione)",
+      "date": "04-25"
+    },
+    {
+      "name": "International Workers’ Day (Primo Maggio)",
+      "date": "05-01"
+    },
+    { "name": "Republic Day (Festa della Repubblica)", "date": "06-02" },
+    { "name": "Ferragosto", "date": "08-15" },
+    {
+      "name": "All Saints’ Day (Ognissanti or Tutti i Santi)",
+      "date": "11-01"
+    },
+    { "name": "Day of the Immaculate Conception", "date": "12-08" },
+    { "name": "Christmas Day (Natale)", "date": "12-25" },
+    { "name": "Saint Stephen’s Day (Santo Stefano)", "date": "12-26" }
+  ],
+
+  "description": "dates are in mm/dd/yyyy format "
+}
