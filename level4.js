@@ -150,7 +150,7 @@ for (let project of data.projects) {
 
 const numberOfWorkdays = 248;
 
-iLoop: for (let i = 0; i < numberOfWorkdays; i++) {
+for (let i = 0; i < numberOfWorkdays; i++) {
   dateLoop: for (let day of workCalendar) {
     let j = numberOfProjects - 1;
     if (effort_days[j] !== 0)

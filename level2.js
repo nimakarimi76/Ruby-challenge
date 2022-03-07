@@ -1,9 +1,6 @@
 console.clear();
 let fs = require("fs");
 
-//! const input1 = fs.readFileSync("./level1/data.json", "utf-8");
-// console.log(input1);
-
 fs.readFile("./level2/data.json", "utf-8", (err, jsonString) => {
   if (err) console.log(err);
   else {
@@ -22,6 +19,7 @@ fs.readFile("./level2/data.json", "utf-8", (err, jsonString) => {
             period.since,
             period.until
           );
+
           availabilities[i].total_days = total;
           availabilities[i].workdays = workdays;
           availabilities[i].weekend_days = weekand_days;
@@ -58,7 +56,6 @@ fs.readFile("./level2/data.json", "utf-8", (err, jsonString) => {
           //* check the employees' birthday
           if (dateCheck(developerBirthday, period.since, period.until)) {
             let bd = new Date(developerBirthday).getDay();
-            // console.log('day of the birthdays',i, developerBirthday, developerBirthday.getDay());
 
             availabilities[i].holidays++;
 

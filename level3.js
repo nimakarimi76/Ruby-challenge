@@ -1,9 +1,6 @@
 console.clear();
 let fs = require("fs");
 
-//! const input1 = fs.readFileSync("./level1/data.json", "utf-8");
-// console.log(input1);
-
 fs.readFile("./level3/data.json", "utf-8", (err, jsonString) => {
   // if (err) console.log(err);
   // else {
@@ -58,7 +55,6 @@ fs.readFile("./level3/data.json", "utf-8", (err, jsonString) => {
       //* check the employees' birthday
       if (dateCheck(developerBirthday, project.since, project.until)) {
         let bd = new Date(developerBirthday).getDay();
-        // console.log('day of the birthdays',i, developerBirthday, developerBirthday.getDay());
 
         availabilities[i].holidays++;
 
@@ -109,7 +105,6 @@ fs.readFile("./level3/data.json", "utf-8", (err, jsonString) => {
 
   let output = {};
   output.availabilities = availabilities;
-  // console.log(output);
 
   fs.writeFileSync("./level3/myOutput.json", JSON.stringify(output, null, 1));
   // } catch (err) {
@@ -146,9 +141,6 @@ function holidayCounter() {
 
   return [holidaysDates, numberOfHolidays];
 }
-
-// if (dateCheck("05-01", "2017-03-11", "2017-05-15")) console.log("Availed");
-// else console.log("Not Availed");
 
 function dateCheck(check, from, to = from) {
   //* if there wasn't any 'to' consider 'to' equal to 'from'

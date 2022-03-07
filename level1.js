@@ -35,6 +35,7 @@ fs.readFile("./level1/data.json", "utf-8", (err, jsonString) => {
           since[period.id - 1],
           until[period.id - 1]
         );
+
         availabilities[period.id - 1].total_days = total;
         availabilities[period.id - 1].workdays = workdays;
         availabilities[period.id - 1].weekend_days = weekand_days;
@@ -45,16 +46,20 @@ fs.readFile("./level1/data.json", "utf-8", (err, jsonString) => {
         for (let holiday of holidaysDates) {
           if (dateCheck(holiday, period.since, period.until)) {
             availabilities[period.id - 1].holidays++;
+
+            //* Let's change the holiday to the currect year
             holiday = new Date(
               new Date(holiday).setFullYear(
                 new Date(period.since).getFullYear()
               )
             );
-            //* to correct the hour and one day off
+
+            //* To correct the hour and one day off
             holiday = new Date(
               holiday.getTime() + Math.abs(holiday.getTimezoneOffset() * 60000)
             );
 
+            //* Is it on the workdays?
             if (!(holiday.getDay() === 0 || holiday.getDay() === 6))
               availabilities[period.id - 1].workdays--;
           }
@@ -77,7 +82,7 @@ function dayCounter(start, end) {
   let workdays = 0;
   const startDate = new Date(start);
   const endDate = new Date(end);
-  const oneDay = 24 * 60 * 60 * 1000; // hours*minutes*seconds*milliseconds
+  const oneDay = 24 * 60 * 60 * 1000; // hours * minutes * seconds * milliseconds
 
   const difference = Math.round(Math.abs((startDate - endDate) / oneDay)) + 1;
 
@@ -110,6 +115,7 @@ function dateCheck(check, from, to = from) {
 
   from = new Date(from);
   to = new Date(to);
+
   if (check.length <= 5)
     //* if year is not inserted
     check = new Date(new Date(check).setFullYear(from.getFullYear()));

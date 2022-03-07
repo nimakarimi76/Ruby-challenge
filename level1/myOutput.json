@@ -10,16 +10,16 @@
   {
    "period_id": 2,
    "total_days": 76,
-   "workdays": 48,
+   "workdays": 51,
    "weekend_days": 22,
-   "holidays": 6
+   "holidays": 3
   },
   {
    "period_id": 3,
    "total_days": 15,
-   "workdays": 8,
+   "workdays": 11,
    "weekend_days": 4,
-   "holidays": 3
+   "holidays": 0
   }
  ]
 }
